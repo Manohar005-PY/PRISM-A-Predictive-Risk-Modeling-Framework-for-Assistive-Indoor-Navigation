@@ -1,0 +1,15 @@
+# PRISM: Predictive Risk Modeling Framework for Assistive Indoor Navigation
+# Core dependencies
+
+# Deep Learning & Computer Vision
+torch==2.2.0
+torchvision==0.17.0
+ultralytics==8.0.231
+opencv-python==4.8.1.78
+numpy==1.24.3
+
+# Additional utilities
+Pillow==10.0.1
+
+# Optional: For GPU acceleration (uncomment if needed)
+# torch-cuda  # Install appropriate CUDA version for your system
